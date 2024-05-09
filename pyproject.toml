@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "Soccer Video Analytics"
+name = "Football_analytics"
 version = "0.1.0"
 description = ""
 
